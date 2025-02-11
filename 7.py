@@ -1,0 +1,5 @@
+city = input('Введіть місто: ')
+street = input('Введіть вулицю: ')
+house_number = input('Введіть номер будинку: ')
+wohnung_number = input('Введіть номер квартири: ')
+print(f'Адреса:\nМісто: {city}\nВулиця: {street}\nБудинок: {house_number}\nКвартира: {wohnung_number}')
